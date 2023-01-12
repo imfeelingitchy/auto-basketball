@@ -1,2 +1,3 @@
-# auto-basketball
-A fun automation of a HTML5 game called "Hoop Star"
+<p align = "center">
+  <img src = "https://github.com/imfeelingitchy/auto-basketball/blob/main/demo.gif">
+</p>
